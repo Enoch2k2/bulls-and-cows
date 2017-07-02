@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\enoch\documents\visual studio 2017\projects\section_02\bullcowgame\main.cpp(125): warning C4715: 'GetNewWordLength': not all control paths return a value
+  BullCowGame.vcxproj -> C:\Users\Enoch\documents\visual studio 2017\Projects\Section_02\Debug\BullCowGame.exe
+  BullCowGame.vcxproj -> C:\Users\Enoch\documents\visual studio 2017\Projects\Section_02\Debug\BullCowGame.pdb (Partial PDB)
